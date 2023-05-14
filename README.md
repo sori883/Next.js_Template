@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Includes
 - emotion
 - mui
-  - see: sec/mui
+  - see: src/mui
 - next-head-seo
   - see: src/components/nonVisual/siteHead
 - storybook
